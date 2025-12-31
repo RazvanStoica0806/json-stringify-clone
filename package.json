@@ -1,0 +1,16 @@
+{
+  "name": "json-stringify-clone",
+  "version": "1.0.0",
+  "description": "Custom implementation of JSON.stringify",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "jest": "^29.0.0",
+    "ts-jest": "^29.0.0",
+    "@types/jest": "^29.0.0"
+  }
+}
